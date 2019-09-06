@@ -1,0 +1,20 @@
+2019/09/01 15:09:54 ERROR: open kuchh/bih/path: The system cannot find the path specified.
+Can't open configuration file
+main.readConfig
+	C:/Users/Swapnil.Walke/go/src/GoLearn/error_logs.go:21
+main.main
+	C:/Users/Swapnil.Walke/go/src/GoLearn/error_logs.go:41
+runtime.main
+	C:/Go/src/runtime/proc.go:200
+runtime.goexit
+	C:/Go/src/runtime/asm_amd64.s:1337
+2019/09/01 15:13:09 ERROR: open kuchh/bhi/path: The system cannot find the path specified.
+Can't open configuration file
+main.readConfig
+	C:/Users/Swapnil.Walke/go/src/GoLearn/error_logs.go:21
+main.main
+	C:/Users/Swapnil.Walke/go/src/GoLearn/error_logs.go:41
+runtime.main
+	C:/Go/src/runtime/proc.go:200
+runtime.goexit
+	C:/Go/src/runtime/asm_amd64.s:1337
