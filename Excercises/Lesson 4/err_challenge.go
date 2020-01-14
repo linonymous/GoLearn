@@ -14,7 +14,7 @@ import (
 	"strings"
 )
 
-func killServer(pidFile string) error {
+func KillServer(pidFile string) error {
 	data, err := ioutil.ReadFile(pidFile)
 	if err != nil{
 		return errors.Wrap(err, "Cant open pid file!")
